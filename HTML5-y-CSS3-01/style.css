@@ -1,0 +1,52 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    /* background-color: black; */
+
+}
+
+h1, h2, h3{
+    text-align: center;
+}
+
+em strong {
+    color: red;
+}
+
+.header {
+    background-color: rgb(68, 47, 33);
+    padding: 1rem;
+    color: white;
+}
+
+
+.mision {
+    font-size: 20px;
+    text-align: center;
+}
+
+.banner > img {
+   width: 100%;
+}
+
+.items {
+    font-style: italic;
+}
+
+.diferenciales {
+    margin: 2rem;
+    /* background-color: white; */
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.bloque-principal {
+    background-color: #CCCCCC;
+    padding: 2rem;
+}
+
+.diferenciales > img {
+    width: 50%;
+}
+
