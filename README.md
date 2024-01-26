@@ -16,5 +16,9 @@ This course focused on advanced JavaScript concepts, including functions, arrays
 
 In this course, I gained fundamental knowledge of HTML and CSS, covering essential topics for web page construction.
 
+### 4. [HTML5 y CSS3 parte 2](https://github.com/jefersonfuentes/oracle-one/tree/main/HTML5-y-CSS3-02)
+
+In this course, I improved my CSS knowledge by going into more advanced concepts of positioning, lists and navigation.
+
 ![candidato_ONE](https://github.com/jefersonfuentes/oracle-one/assets/121473165/f4d4b653-a960-4e69-8128-6889de38b111)
 
